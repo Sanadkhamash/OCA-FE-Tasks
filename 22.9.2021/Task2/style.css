@@ -1,0 +1,21 @@
+header{
+    width: 30%;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    height: 50%;
+}
+
+.box{
+    display: flex;
+    background-color: red;
+    border-style: solid;
+    margin: 0.5%;
+    width: 7%;
+    height: 100%;
+    justify-content: center;
+    color: white;
+    border-color: black;
+    border-width: 2px;
+}

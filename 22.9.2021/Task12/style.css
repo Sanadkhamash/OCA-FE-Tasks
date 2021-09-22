@@ -1,0 +1,24 @@
+main{
+    margin-top: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.H1{
+    width: 30%;
+    height: 90%;
+    margin: 6%;
+}
+
+.H2{
+    width: 13%;
+    height: 30%;
+    margin: 6%;
+}
+
+.H3{
+    width: 3%;
+    height: 3%;
+    margin: 6%;
+}

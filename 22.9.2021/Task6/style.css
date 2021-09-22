@@ -1,0 +1,21 @@
+.container{
+    border-style: dotted;
+    border-width: 1.2px;
+    width: 70%;
+}
+
+h3{
+    margin: 5% 0 3% 2%;
+}
+
+hr{
+    width: 95%;
+}
+
+.line{
+    margin: 2% ;
+}
+
+button{
+    margin: 1% 2% 2% 2%;
+}

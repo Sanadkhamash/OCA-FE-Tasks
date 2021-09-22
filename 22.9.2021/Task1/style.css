@@ -1,0 +1,70 @@
+.container{
+    display: block;
+    width: 100%;
+    height: 50%;
+}
+
+.forms{
+    display: block;
+    justify-content: center;
+    width:60%;
+
+}
+
+.details fieldset{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(255, 251, 196);
+
+}
+
+.city fieldset{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(255, 251, 196);
+    margin: 0 0 2% 0;
+}
+
+.labels2{
+    display: flex;
+    margin: 0 5% 0 0;
+    width: 50%;
+    justify-content: center
+
+}
+
+.inputs2{
+    display: flex;
+    justify-items: center;
+    margin: 0 5% 0 0;
+
+}
+
+.things{
+    display: flex;
+    justify-items: center;
+    width: 100%
+}
+
+.labels{
+    display: flex;
+    flex-direction: column;
+    margin: 0 5% 0 0;
+}
+
+.labels label{
+    margin: 9% 0 7% 0;
+}
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+    margin: 0 5% 0 0;
+}
+
+.inputs input{
+    margin: 4% 0 4% 0;
+}
+

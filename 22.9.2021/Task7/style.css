@@ -1,0 +1,32 @@
+
+.left{
+    border-style: dotted;
+    border-right-style: none;
+    
+}
+
+.left:not(th){
+    border-top-style: none;
+}
+
+.right{
+    border-style: dotted;
+    width: 35%;
+}
+
+.right:not(th){
+    border-top-style: none;
+}
+
+th{
+    border-style: dotted;
+}
+
+img{
+    width: 90%;
+    padding: 4%;
+}
+
+a{
+    margin-left: 5%;
+}

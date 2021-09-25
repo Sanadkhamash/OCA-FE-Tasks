@@ -1,0 +1,38 @@
+li p{
+    padding:0;
+    margin: 1% 0% 0% 0%;
+}
+li p{
+    padding: 0%;
+    margin: 0%;
+}
+
+.blue{
+    color: blue;
+}
+
+.red{
+    color: red;
+}
+
+.yellow{
+    color: yellow;
+}
+
+.ybg{
+    color: violet;
+    background-color: yellow;
+    text-decoration: underline;
+}
+
+.noType{
+    list-style-type: none;
+}
+
+.cirType{
+    list-style-type: circle;
+}
+
+.bold{
+    font-weight: bold;
+}

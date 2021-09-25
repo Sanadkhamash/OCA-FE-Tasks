@@ -1,0 +1,15 @@
+*{
+    font-family: Consolas,monaco,monospace;
+}
+
+header{
+    border-bottom-style:ridge;
+}
+
+.prop{
+    color: blue;
+}
+
+.value{
+    color: green;
+}

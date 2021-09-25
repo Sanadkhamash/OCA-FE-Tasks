@@ -1,0 +1,47 @@
+body{
+    background-color: #FFF7F0;
+}
+
+.box{
+    background-color: white;
+    width: 75%;
+    margin:2% 0;
+}
+
+h2, p{
+    padding: 2%;
+    margin: 2% 1%;
+}
+
+.b1{
+    border-style:solid;
+}
+
+.b2{
+    border-style: dashed;
+}
+
+.b2 p{
+    border-style:dashed;
+    border-color: red;
+}
+
+.b3{
+    border-style: solid; 
+}
+
+.b3 h2, .b3 p{
+    color: violet;
+}
+
+h2{
+    padding-top: 5%;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange{
+    background-color: orange;
+}

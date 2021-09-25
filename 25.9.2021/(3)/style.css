@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 1.5rem;
+}
+
+article{
+    margin: 3% 1%;
+    padding: 0%;
+    display: flex;
+}
+
+.right{
+    justify-content: flex-end;
+}
+
+.hd1{
+    color: #FFA500;
+    
+}
+
+.hd2{
+    font-family: sans-serif;
+    font-weight:800;
+}
+
+.p1{
+    font-family: system-ui;
+}
+
+.p2{
+    font-family:'Courier New', Courier, monospace;
+}

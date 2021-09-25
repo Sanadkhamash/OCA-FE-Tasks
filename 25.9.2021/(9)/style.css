@@ -1,0 +1,43 @@
+.cont{
+    background-color: green;
+    margin: 1%;
+    padding: 1%;
+    align-self: center;
+    justify-self: center;
+    height: 34rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    border-style: solid;
+    padding: 1%;
+    border-width: 1rem;
+    border-color: yellow;
+    margin: 1%;
+    background-color: green;
+    width: 90%;
+    height: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.g2{
+    padding: 1%;
+    margin: 1%;
+    width: 90%;
+    height: 85%;
+    border-style: solid;
+    border-width: 1rem;
+    border-color: yellow;
+    vertical-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 200%;
+    
+}

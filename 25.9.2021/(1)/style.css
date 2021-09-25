@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+body{
+    background-color: #FF7FFF;
+}
+
+header{
+    padding: 1%;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.line1{
+    display: flex;
+    flex-direction: row;
+}
+
+.box{
+    background-color: rgb(230, 229, 229);
+    margin: 1%;
+    box-sizing: border-box;
+    width: 25%;
+    height: 7.5rem;
+}
+
+.line2{
+  display: flex;
+}
+
+.boxLine{
+    border-top-style: solid;
+    border-bottom-style: solid;
+    margin: 1% 0% 1% 1%;
+    height: 3rem;
+    overflow-y: scroll;
+}
+.boxLine p{
+    color: black;
+    font-weight: bold;
+}

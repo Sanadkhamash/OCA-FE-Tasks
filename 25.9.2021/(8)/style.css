@@ -1,0 +1,31 @@
+header{
+    border-bottom-style: ridge;
+    padding: 2% 1%;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    width: 75%;
+    height: 6rem;
+}
+
+div{
+    margin:2% 0.5%;
+}
+
+.y{
+    border-style:solid;
+    background-color: yellow;
+    align-self: flex-start;
+    width: 30%;
+    height:2.5rem;
+}
+
+.g{
+    border-style:solid;
+    background-color: green;
+    align-self: flex-end;
+    width: 30%;
+    height:2.5rem;
+}
